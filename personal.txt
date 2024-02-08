@@ -14,3 +14,9 @@ Hello my name is Roy
 13
 14
 15
+
+rojo
+blanco
+amarillo
+negro
+azul
