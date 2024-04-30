@@ -9,4 +9,4 @@ numero1 = int(input('Ingresa numero:'))  #convertiendo a numeros
 numero2 = int(input('Ingresa numero:'))
 print(numero1 + numero2)
 
-                
+#averiguar whit               

@@ -7,3 +7,5 @@ print(cantidad*precio)
 
 total = cantidad*precio
 print(f"El precio total es: {total}")
+
+print("El precio total es:", total)
